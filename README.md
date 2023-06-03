@@ -63,8 +63,6 @@ Here are some of the repositories that I have starred:
 9. [Repo Nine](https://github.com/starred-repo-nine)
 10. [Repo Ten](https://github.com/starred-repo-ten)
 
-Please note that this is not an exhaustive list, and you can find more of my starred repositories on my GitHub profile.
-
 ## Conclusion
 
 Thank you for visiting my GitHub portfolio. If you have any feedback or inquiries, please feel free to reach out to me. Let's connect and explore exciting opportunities together!
