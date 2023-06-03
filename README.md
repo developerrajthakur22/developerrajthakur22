@@ -32,21 +32,21 @@ Check out my portfolio at [https://developerrajthakur22.github.io/](https://deve
 
 ### 1. [Fashion Studio (Yepme clone)](https://github.com/developerrajthakur22/healthy-discovery-1593)
 
-Description: A brief description of the project, highlighting its purpose, technologies used, and any notable features.
+Description: Fashion Studio is a Yepme clone, developed as an individual project in just 5 days. This website offers a variety of fashion products like clothes, sunglasses, and shoes. It features login/signup, product sorting and filtering, and a shopping cart for seamless purchasing. The project is built using HTML, CSS, and JavaScript.
 
-Deployed Link: [project-one-demo.com](https://www.project-one-demo.com)
+Deployed Link: [FashionStudio.com](https://lively-chimera-c72878.netlify.app/)
 
-### 2. [Project Two](https://github.com/your-username/project-two)
+### 2. [Ethical Threads (American Eagle clone)](https://github.com/developerrajthakur22/AeClone)
 
-Description: Another brief description of the project, outlining its objectives, technologies employed, and any noteworthy functionalities.
+Description: Ethical Threads is a fashion website with an interactive frontend, product sorting/filtering, admin-side CRUD, and a user-friendly cart for checkout. Developed collaboratively by a team of 5 in 5 days, using HTML, CSS, and JavaScript, it's an attractive American Eagle clone.
 
-Deployed Link: [project-two-demo.com](https://www.project-two-demo.com)
+Deployed Link: [EthicalThreads.com](https://cheery-donut-801eae.netlify.app/)
 
-### 3. [Project Three](https://github.com/your-username/project-three)
+### 3. [Ticket to Ride (Bus Reservation System Java)](https://github.com/developerrajthakur22/annoyed-spark-4097)
 
-Description: A concise description of the project, emphasizing its goals, technologies utilized, and significant components.
+Description: Bus Reservation System - Ticket to Ride is a Java project that allows users to easily reserve seats on buses for their travel needs. It provides features such as user login, bus search based on source and destination, seat booking, and reservation viewing. The project utilizes Java as the programming language and a file system database for data storage.
 
-Deployed Link: [project-three-demo.com](https://www.project-three-demo.com)
+Presentation Link: [Ticket to ride](https://drive.google.com/file/d/1nK7Tk0IgBJoS8XtcE9JtNfIId-2J-GSj/view?usp=sharing)
 
 ## Starred Repositories
 
