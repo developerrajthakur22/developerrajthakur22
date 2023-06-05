@@ -58,7 +58,7 @@ Here are some of the repositories that I have starred:
 4. [Movie Search Engine](https://github.com/developerrajthakur22/MovieSearchEngine)
 5. [JavaScript simple server App](https://github.com/developerrajthakur22/JS_server_app)
 6. [Raj-Thakur-PortFolio](https://github.com/developerrajthakur22/developerrajthakur22.github.io)
-7. [Repo Seven](https://github.com/starred-repo-seven)
+7. [Vaccination Registration](https://github.com/developerrajthakur22/VaccinationRegistration)
 8. [Repo Eight](https://github.com/starred-repo-eight)
 9. [Repo Nine](https://github.com/starred-repo-nine)
 10. [Repo Ten](https://github.com/starred-repo-ten)
