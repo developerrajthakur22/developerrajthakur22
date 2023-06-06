@@ -23,46 +23,9 @@ Let's create exceptional solutions together!
 🌍 Website: [https://developerrajthakur22.github.io/](https://developerrajthakur22.github.io/)\
 📍 Location: Indore (Madhya Pradesh), India
 
-
 ## Portfolio
 
-Check out my portfolio at [https://developerrajthakur22.github.io/](https://developerrajthakur22.github.io/). It showcases some of my best projects and demonstrates my skills in various technologies. The portfolio is deployed on GitHub Pages, providing an interactive experience for exploring the projects.
-
-## Pinned Repositories
-
-### 1. [Fashion Studio (Yepme clone)](https://github.com/developerrajthakur22/healthy-discovery-1593)
-
-Description: Fashion Studio is a Yepme clone, developed as an individual project in just 5 days. This website offers a variety of fashion products like clothes, sunglasses, and shoes. It features login/signup, product sorting and filtering, and a shopping cart for seamless purchasing. The project is built using HTML, CSS, and JavaScript.
-
-Deployed Link: [FashionStudio.com](https://lively-chimera-c72878.netlify.app/)
-
-### 2. [Ethical Threads (American Eagle clone)](https://github.com/developerrajthakur22/AeClone)
-
-Description: Ethical Threads is a fashion website with an interactive frontend, product sorting/filtering, admin-side CRUD, and a user-friendly cart for checkout. Developed collaboratively by a team of 5 in 5 days, using HTML, CSS, and JavaScript, it's an attractive American Eagle clone.
-
-Deployed Link: [EthicalThreads.com](https://cheery-donut-801eae.netlify.app/)
-
-### 3. [Ticket to Ride (Bus Reservation System Java)](https://github.com/developerrajthakur22/annoyed-spark-4097)
-
-Description: Bus Reservation System - Ticket to Ride is a Java project that allows users to easily reserve seats on buses for their travel needs. It provides features such as user login, bus search based on source and destination, seat booking, and reservation viewing. The project utilizes Java as the programming language and a file system database for data storage.
-
-Presentation Link: [Ticket to ride](https://drive.google.com/file/d/1nK7Tk0IgBJoS8XtcE9JtNfIId-2J-GSj/view?usp=sharing)
-
-## Starred Repositories
-
-Here are some of the repositories that I have starred:
-
-1. [Fashion Studio (Yepme clone)](https://github.com/developerrajthakur22/healthy-discovery-1593)
-2. [Ethical Threads (American Eagle clone)](https://github.com/developerrajthakur22/AeClone)
-3. [Ticket to Ride (Bus Reservation System Java)](https://github.com/developerrajthakur22/annoyed-spark-4097)
-4. [CRUD operations using Hibernate(JPA)](https://github.com/developerrajthakur22/HibernateCRUD)
-5. [Movie Search Engine](https://github.com/developerrajthakur22/MovieSearchEngine)
-6. [JavaScript simple server App](https://github.com/developerrajthakur22/JS_server_app)
-7. [Raj-Thakur-PortFolio](https://github.com/developerrajthakur22/developerrajthakur22.github.io)
-8. [Vaccination Registration](https://github.com/developerrajthakur22/VaccinationRegistration)
-9. [Employee Management](https://github.com/developerrajthakur22/EmployeeManagement)
-10. [Repo Nine](https://github.com/starred-repo-nine)
-
+Check out my <a href="https://developerrajthakur22.github.io/">Portfolio</a>. It showcases some of my best projects and demonstrates my skills in various technologies. The portfolio is deployed on GitHub Pages, providing an interactive experience for exploring the projects.
 
 ## Conclusion
 
