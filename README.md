@@ -7,11 +7,9 @@ Welcome to my GitHub portfolio! Here you will find a collection of my projects, 
 
 ## Hey there!
 
-I'm a former Systems Engineer with 10 months of experience in production support, focused on delivering high-quality results. During my previous role, I managed tickets and worked with AS400 servers, utilizing SQL databases to update data effectively.
+I'm currently a SDE Intern at Masai School, with expertise in Spring, Spring Boot, Hibernate, and React. With 10 months of prior experience at Cognizant, I honed my skills in production support, particularly with AS400 servers.
 
-Currently, I am actively learning Java Backend Development and seeking opportunities in this field. I am passionate about software development and continuously expanding my skills. With my dedication and expertise, I'm confident in making a positive contribution to any team.
-
-Professionally, I am building a strong foundation in Java, SQL, Hibernate, and JavaScript. I am committed to delivering high-quality code and creating seamless user experiences. I stay updated with emerging technologies to incorporate them into my work.
+My passion lies in staying abreast of the latest technologies, ensuring clean code practices, and crafting seamless user experiences. Open to connecting for collaboration or employment opportunities. Let's discuss how we can create exceptional software solutions!
 
 Feel free to connect with me on LinkedIn to discuss potential collaborations or employment opportunities.
 
